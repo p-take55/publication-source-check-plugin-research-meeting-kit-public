@@ -1,0 +1,6 @@
+{
+  "name": "research-meeting-kit",
+  "version": "1.0.0",
+  "description": "調査を短い提案資料にまとめるSkillと、会議記録から決定事項と次のアクションを整理するSkillのセット。",
+  "skills": "./skills/"
+}
